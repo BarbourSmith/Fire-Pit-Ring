@@ -572,6 +572,13 @@
     ],
     "unitsKey": "MM",
     "fileTypeVersion": 1,
-    "compiledBom": [],
+    "compiledBom": [
+        {
+            "BOMitemName": "Fire Pit Ring",
+            "numberNeeded": 1,
+            "costUSD": 206,
+            "source": "https://amzn.to/3XAoGSm"
+        }
+    ],
     "filetypeVersion": 1
 }
